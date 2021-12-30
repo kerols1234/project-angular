@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  API_URL: 'http://kerols123-001-site1.htempurl.com/',
+  API_URL: 'http://kerols123-001-site1.htempurl.com/api',
 };
 
 /*
